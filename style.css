@@ -9,9 +9,13 @@ section {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .div-img-cell img {
-    width: 90vh;
+    width: 95vh;
+}
+
+.container-form {
+    
 }
